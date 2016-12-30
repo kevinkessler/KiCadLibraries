@@ -12,4 +12,10 @@ K JACK MONO NRJ4HF
 F http://www.neutrik.com/en/audio/plugs-and-jacks/slim-jacks/nrj4hf
 $ENDCMP
 #
+$CMP NRJ4HF
+D 1/4" Mono Jack, Switched
+K MONO JACK SWITCHED
+F http://www.neutrik.com/en/audio/plugs-and-jacks/slim-jacks/nrj4hf
+$ENDCMP
+#
 #End Doc Library
