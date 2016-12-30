@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP IRLML6344
+D 30V Vds, 37MOhm Rds, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.infineon.com/dgdl/irlml6344pbf.pdf?fileId=5546d462533600a4015356689c44262c
+$ENDCMP
+#
+$CMP JACK_3.5_SWITCHED_MONO
+D 1/4" Mono Switched Jack
+K JACK MONO NRJ4HF
+F http://www.neutrik.com/en/audio/plugs-and-jacks/slim-jacks/nrj4hf
+$ENDCMP
+#
 #End Doc Library
