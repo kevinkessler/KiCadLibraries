@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP GNDB
+K POWER, PWR
+$ENDCMP
+#
 $CMP IRLML6344
 D 30V Vds, 37MOhm Rds, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET Logic Level
@@ -16,6 +20,10 @@ $CMP NRJ4HF
 D 1/4" Mono Jack, Switched
 K MONO JACK SWITCHED
 F http://www.neutrik.com/en/audio/plugs-and-jacks/slim-jacks/nrj4hf
+$ENDCMP
+#
+$CMP VDDB
+K POWER, PWR
 $ENDCMP
 #
 #End Doc Library
