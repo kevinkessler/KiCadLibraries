@@ -22,6 +22,10 @@ K MONO JACK SWITCHED
 F http://www.neutrik.com/en/audio/plugs-and-jacks/slim-jacks/nrj4hf
 $ENDCMP
 #
+$CMP S35770
+F DOCUMENTATION
+$ENDCMP
+#
 $CMP VDDB
 K POWER, PWR
 $ENDCMP
