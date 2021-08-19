@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DRA818
+F http://www.dorji.com/docs/data/DRA818U.pdf
+$ENDCMP
+#
 $CMP GNDB
 K POWER, PWR
 $ENDCMP
