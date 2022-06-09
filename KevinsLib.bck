@@ -31,6 +31,11 @@ F DOCUMENTATION
 $ENDCMP
 #
 $CMP SA612A
+D Double-Balanced Mixer
+F https://www.nxp.com/docs/en/data-sheet/SA612A.pdf
+$ENDCMP
+#
+$CMP SI5351
 F DOCUMENTATION
 $ENDCMP
 #
